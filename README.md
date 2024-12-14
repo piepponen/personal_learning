@@ -23,6 +23,6 @@ Here are some of the courses included in this repository:
 Feel free to browse through the repository to explore different materials and solutions. You can clone this repository and use the resources for your own learning or reference.
 
 ```bash
-git clone https://github.com/piepponen/personal_learning-.git
+git clone https://github.com/piepponen/personal_learning.git
 
 
