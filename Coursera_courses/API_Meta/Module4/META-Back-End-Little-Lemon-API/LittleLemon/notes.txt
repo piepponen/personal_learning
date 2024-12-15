@@ -1,0 +1,9 @@
+Username                Password        Token
+
+admin_littlelemon       littlelemon     333dbcc9cec269e716e0eebf53c0b24f56283619
+
+manager1                littlelemon     9066290e9ccc5cc293b9c9ce8b6225afd340a7e0
+
+delivery_crew1          littlelemon     ff2ca3411c47fcd6fd786d22d0befad62c40741b
+
+customer1               littlelemon     75c1ecc507b14ba1d579e64b4cf8fa02cb8c8374
