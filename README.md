@@ -13,8 +13,8 @@ Welcome to my repository where I store various educational resources, study mate
 
 Here are some of the courses included in this repository:
 
-- [...]
-- [...]
+- API (META) from Coursera.
+- AI Developer Study Program (Microsoft Skills for Jobs, microdegree program)
 - [...]
 - [...]
 
